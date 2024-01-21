@@ -78,6 +78,7 @@ header p {
     color: var(--veryDarkMagenta);
     justify-content: space-between;
     align-items: center;
+    box-shadow: 5px 5px var(--veryDarkMagenta);
 }
 
 .stars .star-icon {
@@ -109,6 +110,7 @@ header p {
     font-size: 14px;
     display: grid;
     grid-template-columns: 1fr 10fr;
+    box-shadow: 5px 5px var(--darkGrayishMagenta);
 }
 
 .card-profile img {
