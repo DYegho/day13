@@ -25,7 +25,7 @@ body {
     background-repeat: no-repeat;
     background-position: top left, bottom right;
     font-family: var(--leagueSpartann-family);
-    overflow: hidden;
+/*     overflow: hidden; */
 
 }
 
